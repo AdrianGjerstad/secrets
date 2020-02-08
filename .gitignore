@@ -1,0 +1,27 @@
+# VI Swap Files
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# VI Session Files
+Session.vim
+Sessionx.vim
+
+# VI Temporary Files
+.netrwhist
+*~
+
+# VI Auto-Generated Tag Files
+tags
+
+# VI Persistent Undo Memory Files
+[._]*.un~
+
+# Build Files
+build/*
+
+# MacOS
+.DS_Store
+
